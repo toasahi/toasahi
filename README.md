@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toasahi&label=Profile%20views&color=0e75b6&style=flat" alt="toasahi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toasahi" alt="toasahi" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js Deno Amplify**
 
 <h3 align="left">Connect with me:</h3>
